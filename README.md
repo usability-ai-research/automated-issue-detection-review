@@ -1,8 +1,8 @@
-# Advances in Automation and AI for Usability Issue Detection 2014-2026: Systematic Literature Review
+# Advances in Automation and AI for Usability Issue Detection: Systematic Literature Review
 
 ## About
 
-This repository contains the official materials for the research paper *"Advances in Automation and AI for Usability Issue Detection 2014-2026: Systematic Literature Review"*. The paper explores automated methods for detecting usability issues, offering a systematic literature review of 215 studies published between 2014 and 2026. It highlights research objectives, technologies, devices, data sources, technological maturity, the use of artificial intelligence, and the involvement of real participants across the publications.
+This repository contains the official materials for the research paper *"Advances in Automation and AI for Usability Issue Detection: Systematic Literature Review"*. The paper explores automated methods for detecting usability issues, offering a systematic literature review of 215 studies published between 2014 and 2026. It highlights research objectives, technologies, devices, data sources, technological maturity, the use of artificial intelligence, and the involvement of real participants across the publications.
 
 ### Paper citation
 
